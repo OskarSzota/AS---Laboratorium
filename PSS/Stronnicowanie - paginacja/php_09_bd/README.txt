@@ -1,0 +1,1 @@
+Paginacja została zaimplementowana w kontrolerze OrderListCtrl oraz w widoku OrderList.
