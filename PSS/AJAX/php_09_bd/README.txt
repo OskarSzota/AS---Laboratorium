@@ -1,0 +1,1 @@
+AJAX został zaimplementowany w kontrolerze UserListCtrl oraz w widokach UserList oraz UserListPart.
