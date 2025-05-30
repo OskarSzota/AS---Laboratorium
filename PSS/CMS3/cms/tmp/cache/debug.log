@@ -1,0 +1,1430 @@
+Debug: (0.107002) - (net usage: 4323832) - (peak: 4852728)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.09481) - (net usage: 3904776) - (peak: 4452128)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.150696) - (net usage: 6769824) - (peak: 8218040)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetTabElements at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_editcontent.php:293
+display_single_element at C:\xampp\htdocs\cms\lib\classes\class.ContentBase.php:2054
+template_query at C:\xampp\htdocs\cms\lib\classes\contenttypes\Content.inc.php:353
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.173158) - (net usage: 3670096) - (peak: 4306808)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:106
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+load_bulk at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_ajax_gettemplates.php:64
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.047697) - (net usage: 3950888) - (peak: 4503888)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.053229) - (net usage: 3948512) - (peak: 4501840)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.052089) - (net usage: 3947968) - (peak: 4500968)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.056865) - (net usage: 3948912) - (peak: 4501848)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.046902) - (net usage: 3949944) - (peak: 4503008)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044706) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.046676) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.046102) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.054325) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.054663) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044812) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044885) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045394) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.049022) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044471) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044702) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.099052) - (net usage: 3969008) - (peak: 4516520)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+DoAction at C:\xampp\htdocs\cms\modules\DesignManager\DesignManager.module.php:56
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetMatches at C:\xampp\htdocs\cms\modules\DesignManager\action.ajax_get_templates.php:13
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplateQuery.php:276
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.046874) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.052739) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.048481) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044683) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044787) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.043726) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.049569) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.046389) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.054972) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045849) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.046916) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045217) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.053094) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.050133) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045195) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045708) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.049076) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.06494) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044223) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045229) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044538) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.05989) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044448) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.043647) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044097) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.048597) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044083) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.044221) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.045606) - (net usage: 3963648) - (peak: 4516712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.132429) - (net usage: 3969008) - (peak: 4516520)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+DoAction at C:\xampp\htdocs\cms\modules\DesignManager\DesignManager.module.php:56
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetMatches at C:\xampp\htdocs\cms\modules\DesignManager\action.ajax_get_templates.php:13
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplateQuery.php:276
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.891818) - (net usage: 5243304) - (peak: 5790816)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+DoAction at C:\xampp\htdocs\cms\modules\DesignManager\DesignManager.module.php:56
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetMatches at C:\xampp\htdocs\cms\modules\DesignManager\action.ajax_get_templates.php:13
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplateQuery.php:276
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.333605) - (net usage: 3950448) - (peak: 4503480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (1.228115) - (net usage: 4598816) - (peak: 5146328)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+DoAction at C:\xampp\htdocs\cms\modules\DesignManager\DesignManager.module.php:56
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetMatches at C:\xampp\htdocs\cms\modules\DesignManager\action.ajax_get_templates.php:13
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplateQuery.php:276
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.741697) - (net usage: 4391328) - (peak: 4920248)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.671543) - (net usage: 3971608) - (peak: 4518960)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.327954) - (net usage: 3951712) - (peak: 4504872)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.26796) - (net usage: 3965160) - (peak: 4518096)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.243647) - (net usage: 3965416) - (peak: 4518480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.67929) - (net usage: 4391928) - (peak: 4920848)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.605509) - (net usage: 3972208) - (peak: 4519560)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.675325) - (net usage: 4391928) - (peak: 4920848)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.695543) - (net usage: 3972208) - (peak: 4519560)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.308814) - (net usage: 3965416) - (peak: 4518480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.251903) - (net usage: 3965416) - (peak: 4518480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.321484) - (net usage: 3967552) - (peak: 4520840)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.278207) - (net usage: 3967296) - (peak: 4520264)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.321733) - (net usage: 3968744) - (peak: 4521904)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.268615) - (net usage: 3968744) - (peak: 4521712)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.237079) - (net usage: 3968488) - (peak: 4521536)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.232132) - (net usage: 3969032) - (peak: 4522248)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.268375) - (net usage: 3968488) - (peak: 4521344)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.304185) - (net usage: 3969064) - (peak: 4522160)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.280501) - (net usage: 3970256) - (peak: 4523256)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.27518) - (net usage: 3957096) - (peak: 4510424)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.23897) - (net usage: 3970256) - (peak: 4523256)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.325795) - (net usage: 3970512) - (peak: 4523640)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.894672) - (net usage: 4105296) - (peak: 4658656)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.571518) - (net usage: 4391960) - (peak: 4920880)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.743561) - (net usage: 3972240) - (peak: 4519592)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.764213) - (net usage: 6772848) - (peak: 8221064)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetTabElements at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_editcontent.php:293
+display_single_element at C:\xampp\htdocs\cms\lib\classes\class.ContentBase.php:2054
+template_query at C:\xampp\htdocs\cms\lib\classes\contenttypes\Content.inc.php:353
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.457974) - (net usage: 3672440) - (peak: 4309152)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:106
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+load_bulk at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_ajax_gettemplates.php:64
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.899202) - (net usage: 6770600) - (peak: 8181104)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetTabElements at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_editcontent.php:293
+display_single_element at C:\xampp\htdocs\cms\lib\classes\class.ContentBase.php:2054
+template_query at C:\xampp\htdocs\cms\lib\classes\contenttypes\Content.inc.php:353
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (1.183258) - (net usage: 3608216) - (peak: 4244928)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:106
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+load_bulk at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_ajax_gettemplates.php:64
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.289271) - (net usage: 3410320) - (peak: 3963536)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.306409) - (net usage: 3471712) - (peak: 4024392)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.27904) - (net usage: 3971768) - (peak: 4524832)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.705741) - (net usage: 4404928) - (peak: 4933952)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.717246) - (net usage: 3974032) - (peak: 4521384)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.295613) - (net usage: 3972024) - (peak: 4525216)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.312238) - (net usage: 3974272) - (peak: 4527896)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.24434) - (net usage: 3974272) - (peak: 4527896)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.765289) - (net usage: 4393752) - (peak: 4922672)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.691599) - (net usage: 3974032) - (peak: 4521384)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.925996) - (net usage: 6731920) - (peak: 8149848)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+GetTabElements at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_editcontent.php:293
+display_single_element at C:\xampp\htdocs\cms\lib\classes\class.ContentBase.php:2054
+template_query at C:\xampp\htdocs\cms\lib\classes\contenttypes\Content.inc.php:353
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (1.210744) - (net usage: 3674232) - (peak: 4310944)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:106
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+load_bulk at C:\xampp\htdocs\cms\modules\CMSContentManager\action.admin_ajax_gettemplates.php:64
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.729085) - (net usage: 4342408) - (peak: 4871432)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.defaultadmin.php:166
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.663632) - (net usage: 3909768) - (peak: 4457120)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.332414) - (net usage: 3480848) - (peak: 4034264)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.51634) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (1.181681) - (net usage: 4606824) - (peak: 5154176)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.703287) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.679204) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.661005) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.32262) - (net usage: 3978968) - (peak: 4532576)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.309391) - (net usage: 3480328) - (peak: 4032848)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.265826) - (net usage: 3481128) - (peak: 4034304)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.288482) - (net usage: 3992432) - (peak: 4545496)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.274652) - (net usage: 3993232) - (peak: 4546728)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.399587) - (net usage: 4492704) - (peak: 5045720)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.332836) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.827754) - (net usage: 4126464) - (peak: 4679640)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.343098) - (net usage: 3976760) - (peak: 4528440)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.240686) - (net usage: 3991672) - (peak: 4544512)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.291673) - (net usage: 3977968) - (peak: 4530824)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.721418) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.448434) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.628093) - (net usage: 3977128) - (peak: 4524480)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+DoActionBase at C:\xampp\htdocs\cms\admin\moduleinterface.php:74
+DoAction at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1479
+include at C:\xampp\htdocs\cms\lib\classes\class.CMSModule.php:1403
+template_query at C:\xampp\htdocs\cms\modules\CMSContentManager\action.ajax_get_content.php:45
+load_bulk at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:932
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug: (0.418588) - (net usage: 4769920) - (peak: 5321680)
+Database Error: EXECUTE(1194) - Table 'cms_layout_design_tplassoc' is marked as crashed and should be repaired
+Backtrace in C:\xampp\htdocs\cms\lib\classes\Database\class.compatibility.php on line 97
+__construct at C:\xampp\htdocs\cms\index.php:66
+load_bulk at C:\xampp\htdocs\cms\lib\classes\internal\class.CmsTemplateCache.php:69
+GetArray at C:\xampp\htdocs\cms\lib\classes\class.CmsLayoutTemplate.php:848
+SelectLimit at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:354
+do_sql at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:328
+OnError at C:\xampp\htdocs\cms\lib\classes\Database\mysqli\class.Connection.php:127
+call_user_func at C:\xampp\htdocs\cms\lib\classes\Database\class.Connection.php:678
+on_error
+Debug display of 'Is missing in the languagefile: Gallery':(0,258161) - (net usage: 3922296) - (peak: 4410816)
+Languagestring: "true"
